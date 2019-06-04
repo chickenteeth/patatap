@@ -1,0 +1,52 @@
+canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#text {
+    opacity: 0;
+}
+
+/* .container {
+    text-align: center;
+    background: none;
+    width: 100%;
+    height: 100%;
+}
+
+.topKeys {
+    display: inline-block;
+    width: 9.2%;
+    height: 32.1%;
+    background: white;
+    opacity: 0;
+}
+
+.keys:hover {
+    opacity: 0.1;
+}
+
+.middleKeys {
+    display: inline-block;
+    width: 10.3%;
+    height: 32.9%;
+    background: white;
+    opacity: 0;
+}
+
+.bottomKeys {
+    display: inline-block;
+    width: 13.5%;
+    height: 32.9%;
+    background: white;
+    opacity: 0;
+} */
